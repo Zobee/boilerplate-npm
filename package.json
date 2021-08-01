@@ -4,6 +4,7 @@
 	"description": "Let's cement that node knowledge",
 	"keywords": ["freecodecamp", "nodejs", "practice"],
 	"license": "MIT",
+	"version": "1.0.0",
 	"engines": {
 		"node": "12.x"
 	},
