@@ -2,6 +2,7 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "Zoheb",
 	"description": "Let's cement that node knowledge",
+	"keywords": ["freecodecamp", "nodejs", "practice"],
 	"engines": {
 		"node": "12.x"
 	},
