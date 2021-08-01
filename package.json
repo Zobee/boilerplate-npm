@@ -2,7 +2,11 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "Zoheb",
 	"description": "Let's cement that node knowledge",
-	"keywords": ["freecodecamp", "nodejs", "practice"],
+	"keywords": [
+		"freecodecamp",
+		"nodejs",
+		"practice"
+	],
 	"license": "MIT",
 	"version": "1.0.0",
 	"engines": {
