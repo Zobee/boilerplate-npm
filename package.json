@@ -1,6 +1,7 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "Zoheb",
+	"description": "Let's cement that node knowledge",
 	"engines": {
 		"node": "12.x"
 	},
